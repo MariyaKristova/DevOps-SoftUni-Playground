@@ -3,3 +3,4 @@ This is a playground for the lab from the Git Branching and Pull Requests lesson
 
 ## Make your changes here
 This is Exercise 1
+This is Exercise 2 from user2
